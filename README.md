@@ -22,6 +22,30 @@ The contents of this modpack (mods, resourcepacks, music, logos, etc) are not co
   - Monumenta Item List
   - Dynamic Fullbright (yes this was actually made specifically for Monumenta)
 
+## Installation
+### Vanilla Launcher
+- [Modrinth Modpack Installer](https://github.com/Provismet/Modrinth-Modpack-Installer) (zero setup required)
+  - I made this one, so just tell me if it breaks somehow.
+  - It will set up a folder with all the mods and configs from the `.mrpack` file, then you can just tell Minecraft to launch an installation from that folder.
+- There are also several command line tools you can try that have the ability to set up the modpack for you.
+- Manual Installation (lots of setup required)
+  1. The `.mrpack` file is just a zip folder with a fancy extension. Rename the file to change the filetype to `.zip`.
+  2. Unzip the folder.
+    - If you have 7zip, you can use that to open the `.mrpack` directly and skip step 1.
+  3. The "overrides" folder contains configs, resourcepacks, etc in the exact format they need to be for a standard Minecraft profile.
+    - Either use this folder as the profile/installation folder or copy its contents into your chosen folder.
+  4. `modrinth.index.json` is a json file containing URLs to every mod to download.
+    - These URLs are direct download links, so just click all of them and let your web browser do the rest.
+  5. Move all the downloaded mods into your mods folder.
+  6. Create a Minecraft profile pointing at the location of the folder you set up (the same folder you dumped the contents of override into).
+  7. Play, let Minecraft and the mods generate all remaining files.
+
+### 3rd Party Launchers
+The instructions will be different per 3rd party launcher, but any launcher that supports Modrinth modpacks should be able to set everything up:
+- Prism Launcher
+- ATLauncher
+- MultiMC
+
 ## Complete Mod List
 - [**AppleSkin**](https://modrinth.com/mod/appleskin) - Food/hunger-related HUD improvements
 - [**Audio Extension for FancyMenu**](https://modrinth.com/mod/audio-extension-for-fancymenu) - Add audio elements to FancyMenu layouts.
