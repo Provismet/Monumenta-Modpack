@@ -3,7 +3,7 @@
 Another unofficial modpack for the CTM-MMO Minecraft server, [Monumenta](www.playmonumenta.com).
 
 ## License
-This **modpack** (custom menus layouts, configuration files, etc) is licensed as MIT, feel free to disect and reuse parts of it.  
+This **modpack** (custom menu layouts, configuration files, etc) is licensed as MIT, feel free to disect and reuse parts of it.  
 The contents of this modpack (mods, resourcepacks, music, logos, etc) are not covered by the modpack's license and instead have separate licenses to respect.
 
 ## Contents
