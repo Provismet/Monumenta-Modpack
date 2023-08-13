@@ -47,24 +47,32 @@ The instructions will be different per 3rd party launcher, but any launcher that
 - MultiMC
 
 ## Complete Mod List
+- [**3D Skin Layers**](https://modrinth.com/mod/3dskinlayers) - Render the player skin layer in 3d!
 - [**AppleSkin**](https://modrinth.com/mod/appleskin) - Food/hunger-related HUD improvements
 - [**Audio Extension for FancyMenu**](https://modrinth.com/mod/audio-extension-for-fancymenu) - Add audio elements to FancyMenu layouts.
 - [**Auudio**](https://modrinth.com/mod/auudio) - Library mod to easily play background sound in menus and worlds.
 - [**Better Advancements**](https://modrinth.com/mod/better-advancements) - Better Advancements tries to improve the UI and UX for the advancements system in minecraft 1.12+ in a modded environment
+- [**Borderless Mining**](https://modrinth.com/mod/borderless-mining) - Changes Fullscreen to use a borderless window.
 - [**CIT Resewn**](https://modrinth.com/mod/cit-resewn) - Re-implements MCPatcher's CIT (custom item textures from optifine resource packs)
 - [**Cloth Config API**](https://modrinth.com/mod/cloth-config) - Configuration Library for Minecraft Mods
 - [**Continuity**](https://modrinth.com/mod/continuity) - A Fabric mod that allows for efficient connected textures
 - [**Custom Entity Models**](https://modrinth.com/mod/cem) - Custom Entity Models suport on Fabric
 - [**Dynamic Fullbright**](https://modrinth.com/mod/dynamic-fullbright) - A simple alternative to standard fullbright mods, offering the ability to scale or clamp light levels to a desired range.
+- [**Enhanced Block Entities**](https://modrinth.com/mod/ebe) - Reduce FPS lag with block entities, as well as customize them with resource packs
 - [**Fabric API**](https://modrinth.com/mod/fabric-api) - Lightweight and modular API providing common hooks and intercompatibility measures utilized by mods using the Fabric toolchain.
 - [**Fabric Language Kotlin**](https://modrinth.com/mod/fabric-language-kotlin) - Fabric Language Kotlin
+- [**FabricSkyBoxes Interop**](https://modrinth.com/mod/fabricskyboxes-interop) - FabricSkyBoxes Interoperability for MCPatcher/OptiFine Skies
+- [**FabricSkyboxes**](https://modrinth.com/mod/fabricskyboxes) - Allows resource packs to define custom skyboxes.
 - [**FancyMenu**](https://modrinth.com/mod/fancymenu) - Minecraft menus, but much more fancy! Customize menu screens with animations, buttons, texts, images and more!
+- [**FerriteCore**](https://modrinth.com/mod/ferrite-core) - Memory usage optimizations
 - [**Indium**](https://modrinth.com/mod/indium) - Sodium addon providing support for the Fabric Rendering API, based on Indigo
 - [**Iris Shaders**](https://modrinth.com/mod/iris) - A modern shaders mod for Minecraft intended to be compatible with existing OptiFine shader packs
 - [**Konkrete**](https://modrinth.com/mod/konkrete) - Just another boring library mod.
+- [**LambDynamicLights**](https://modrinth.com/mod/lambdynamiclights) - A dynamic lights mod for Fabric.
 - [**Lithium**](https://modrinth.com/mod/lithium) - No-compromises game logic/server optimization mod
 - [**Load My Resources**](https://modrinth.com/mod/load-my-resources) - Load resources on game start, like a resource pack, but enabled by default.
 - [**Mod Menu**](https://modrinth.com/mod/modmenu) - Adds a mod menu to view the list of mods you have installed.
+- [**Model Gap Fix**](https://modrinth.com/mod/modelfix) - Fixes gaps in Block Models and Item Models
 - [**Monumenta Item Dictionary**](https://modrinth.com/mod/monumenta-item-dictionary) - A QOL mod for Monumenta, adding an in-game item dictionary. (1.18.2)
 - [**No Chat Reports**](https://modrinth.com/mod/no-chat-reports) - Makes chat unreportable (where possible)
 - [**Phosphor**](https://modrinth.com/mod/phosphor) - No-compromises lighting engine optimization mod
