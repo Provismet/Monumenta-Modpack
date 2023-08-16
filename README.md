@@ -47,7 +47,6 @@ The instructions will be different per 3rd party launcher, but any launcher that
 - MultiMC
 
 ## Complete Mod List
-- [**3D Skin Layers**](https://modrinth.com/mod/3dskinlayers) - Render the player skin layer in 3d!
 - [**AppleSkin**](https://modrinth.com/mod/appleskin) - Food/hunger-related HUD improvements
 - [**Audio Extension for FancyMenu**](https://modrinth.com/mod/audio-extension-for-fancymenu) - Add audio elements to FancyMenu layouts.
 - [**Auudio**](https://modrinth.com/mod/auudio) - Library mod to easily play background sound in menus and worlds.
@@ -57,7 +56,7 @@ The instructions will be different per 3rd party launcher, but any launcher that
 - [**Cloth Config API**](https://modrinth.com/mod/cloth-config) - Configuration Library for Minecraft Mods
 - [**Continuity**](https://modrinth.com/mod/continuity) - A Fabric mod that allows for efficient connected textures
 - [**Custom Entity Models**](https://modrinth.com/mod/cem) - Custom Entity Models suport on Fabric
-- [**Dynamic Fullbright**](https://modrinth.com/mod/dynamic-fullbright) - A simple alternative to standard fullbright mods, offering the ability to scale or clamp light levels to a desired range.
+- [**Dynamic Fullbright**](https://modrinth.com/mod/dynamic-fullbright) - A simple alternative to standard fullbright/gamma mods, offering the ability to scale or clamp light levels to a desired range.
 - [**Enhanced Block Entities**](https://modrinth.com/mod/ebe) - Reduce FPS lag with block entities, as well as customize them with resource packs
 - [**Fabric API**](https://modrinth.com/mod/fabric-api) - Lightweight and modular API providing common hooks and intercompatibility measures utilized by mods using the Fabric toolchain.
 - [**Fabric Language Kotlin**](https://modrinth.com/mod/fabric-language-kotlin) - Fabric Language Kotlin
@@ -71,6 +70,7 @@ The instructions will be different per 3rd party launcher, but any launcher that
 - [**LambDynamicLights**](https://modrinth.com/mod/lambdynamiclights) - A dynamic lights mod for Fabric.
 - [**Lithium**](https://modrinth.com/mod/lithium) - No-compromises game logic/server optimization mod
 - [**Load My Resources**](https://modrinth.com/mod/load-my-resources) - Load resources on game start, like a resource pack, but enabled by default.
+- [**Logical Zoom**](https://modrinth.com/mod/logical-zoom) - A simple zoom key for Minecraft
 - [**Mod Menu**](https://modrinth.com/mod/modmenu) - Adds a mod menu to view the list of mods you have installed.
 - [**Model Gap Fix**](https://modrinth.com/mod/modelfix) - Fixes gaps in Block Models and Item Models
 - [**Monumenta Item Dictionary**](https://modrinth.com/mod/monumenta-item-dictionary) - A QOL mod for Monumenta, adding an in-game item dictionary. (1.18.2)
@@ -78,11 +78,9 @@ The instructions will be different per 3rd party launcher, but any launcher that
 - [**Phosphor**](https://modrinth.com/mod/phosphor) - No-compromises lighting engine optimization mod
 - [**Shulker Box Tooltip**](https://modrinth.com/mod/shulkerboxtooltip) - View the contents of shulker boxes from your inventory
 - [**Sodium**](https://modrinth.com/mod/sodium) - A modern rendering engine for Minecraft which greatly improves frame rates and micro-stutter, while fixing graphical issues
-- [**Tooltip Scroll**](https://modrinth.com/mod/tooltip-scroll) - A Fabric mod that allows you to move/scroll tooltips.
+- [**Tooltip Scroll**](https://modrinth.com/mod/tooltip-scroll) - The premier Fabric mod that allows you to move/scroll tooltips.
 - [**ToroHealth Damage Indicators (retrixe's 1.19.4 fork)**](https://github.com/ToroCraft/ToroHealth/pull/171) - With ToroHealth Damage Indicators a health bar will appear in the top left corner for the entity in the player's crosshairs.
 - [**Unofficial Monumenta Mod**](https://modrinth.com/mod/unofficial-monumenta-mod) - An unofficial client-side mod for the Monumenta MMO server (www.playmonumenta.com).
 - [**Xaero's Minimap (Fair-Play)**](https://modrinth.com/mod/xaeros-minimap-fair) - Fair-play edition of the Xaero's Minimap mod, designed for fair PVP against players without a minimap.
 - [**Xaero's World Map**](https://modrinth.com/mod/xaeros-world-map) - Adds a full screen world map which shows you what you have explored in the world. Works great together with Xaero's Minimap.
-- [**YetAnotherConfigLib**](https://modrinth.com/mod/yacl) - A builder-based configuration library for Minecraft.
-- [**Zoomify**](https://modrinth.com/mod/zoomify) - A zoom mod with infinite customizability.
 - [**[ETF] Entity Texture Features**](https://modrinth.com/mod/entitytexturefeatures) - Emissive, Random & Custom texture support for entities in resourcepacks just like Optifine but for Fabric
