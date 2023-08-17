@@ -1,0 +1,14 @@
+{
+"music.customplots": {
+    "category": "record",
+    "sounds": [{"name": "epic:music/customplots","stream": true}]},
+"music.customoverworldvalley": {
+    "category": "record",
+    "sounds": [{"name": "epic:music/customoverworldvalley","stream": true}]},
+"music.customoverworldisles": {
+    "category": "record",
+    "sounds": [{"name": "epic:music/customoverworldisles","stream": true}]},
+"music.customoverworldring": {
+    "category": "record",
+    "sounds": [{"name": "epic:music/customoverworldring","stream": true}]}
+}
