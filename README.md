@@ -9,7 +9,7 @@ The contents of this modpack (mods, resourcepacks, music, logos, etc) are not co
 ## Contents
 - Performance improvement mods.
 - Monumenta Official Resource Pack v4.3.0 (check the official discord for the latest release).
-- Monumenta General Music Pack v1.5.0 (check the official discord for the latest release).
+- Monumenta General Music Pack v2.0.0 (check the official discord for the latest release).
   - Contains open world, dungeon, boss, and town music.
 - Monumenta Custom Music Pack v1.2.0 (check the official discord for the latest release).
   - Allows you to set custom music to play in Monumenta.
