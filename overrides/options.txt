@@ -42,7 +42,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","fabric","continuity:default","file/MonumentaRP_v4.3.0.zip","file/MonumentaMusicPack.zip","file/Monumenta_Custom_Music_Pack_1.2.0"]
+resourcePacks:["vanilla","fabric","continuity:default","file/LangFix","file/MonumentaRP_v4.3.0.zip","file/MonumentaMusicPack.zip","file/Monumenta_Custom_Music_Pack_1.2.0"]
 incompatibleResourcePacks:["file/MonumentaRP_v4.3.0.zip","file/MonumentaMusicPack.zip","file/Monumenta_Custom_Music_Pack_1.2.0"]
 lastServer:
 lang:en_us
